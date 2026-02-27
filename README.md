@@ -1,6 +1,6 @@
 # 📚 Gerador de Tabuada em Python
 
-## ✨ Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto foi desenvolvido como parte do meu avanço para o nível intermediário em Python.
 
@@ -11,7 +11,7 @@ A proposta foi criar um gerador de tabuada para números entre 1 e 10, aplicando
 - Tratamento de exceções
 - Estruturação de código
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - Solicita um número inteiro entre 1 e 10
 - Valida a entrada do usuário
@@ -21,12 +21,12 @@ A proposta foi criar um gerador de tabuada para números entre 1 e 10, aplicando
 ##  Imagem
 <img width="618" height="740" alt="image" src="https://github.com/user-attachments/assets/49e5d90f-1631-4cda-99ba-cbe1bd439b93" />
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Python 3
 - Google Colab
 - GitHub
 
-## 📈 Aprendizados
+##  Aprendizados
 
 Este projeto representa minha evolução técnica no desenvolvimento com Python, reforçando boas práticas e organização de código. E7
